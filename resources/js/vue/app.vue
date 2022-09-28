@@ -38,7 +38,7 @@ export default {
         };
     },
     mounted() {
-        this.projectUpdated();
+        // this.projectUpdated();
     },
     methods: {
         newProject() {
